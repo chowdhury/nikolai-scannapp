@@ -1,7 +1,7 @@
 /*global EVT, getUserContext, scanObj, $, EvrythngCokeWrapper  */
 /*jslint devel: true */
 
-var APP_KEY = 'UYFBRVDNnwyeVgbEHw9E6h5g';
+var APP_KEY = 'UEFBRCkHHwTeBgSYnwQE6tfc';
 
 // Instantiate Base EVRYTHNG Object
 var app = new EVT.App(APP_KEY);
